@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.demo.dto.controller;
 
 import com.example.demo.exceptions.Apiunauthorized;
 import com.example.demo.model.Student;
