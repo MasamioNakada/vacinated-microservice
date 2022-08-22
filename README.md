@@ -8,7 +8,7 @@ de los empleados.
 
 ## Setup
 
-Editar el archivo ```docker-compose.yml``` y agregar modificar la configuración de la base de datos.
+Editar el archivo ```docker-compose.yml``` y modificar la configuración de la base de datos.
 
 Ejecutar el comando ```docker-compose up -d``` para iniciar el servidor.
 
