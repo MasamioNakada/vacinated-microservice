@@ -20,7 +20,7 @@ docker-compose up
 
 Ingresar a ```http://localhost:8080/v3/api-docs/``` para ver la documentación de la API.
 
-![](img\swagger.JPG)
+![](https://cdn.discordapp.com/attachments/979914024173072424/1011198868794392608/swagger.JPG)
 
 
 ## Notas
